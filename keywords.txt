@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map For MiniIoT
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MiniIoT	KEYWORD1
+VirtualPin	KEYWORD1
+PinType	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+config	KEYWORD2
+virtualWrite	KEYWORD2
+virtualRead	KEYWORD2
+setPinName	KEYWORD2
+onVirtualRead	KEYWORD2
+onVirtualWrite	KEYWORD2
+sendData	KEYWORD2
+sendPins	KEYWORD2
+syncAll	KEYWORD2
+syncPin	KEYWORD2
+run	KEYWORD2
+isConnected	KEYWORD2
+getDeviceEui	KEYWORD2
+enableDebug	KEYWORD2
+setAutoSend	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+VIRTUAL_PIN	LITERAL1
+DIGITAL_PIN	LITERAL1
+ANALOG_PIN	LITERAL1
+MINIIOT_MAX_VPINS	LITERAL1
+
+#######################################
+# Macros (KEYWORD3)
+#######################################
+
+MINIIOT_WRITE	KEYWORD3
+MINIIOT_READ	KEYWORD3
