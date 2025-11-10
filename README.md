@@ -42,7 +42,7 @@ Perfect for beginners and professionals who want to quickly build IoT projects w
 **For users who download from GitHub releases:**
 
 #### Step 1: Download Library
-- Go to [Releases](https://github.com/yourusername/MiniIoT/releases)
+- Go to [Releases](https://github.com/Jeruk15/MiniIoT/releases)
 - Download `MiniIoT.zip`
 
 #### Step 2: Install Library
